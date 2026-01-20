@@ -33,3 +33,12 @@
 # Ignore key files for decrypting credentials and more.
 /config/*.key
 
+
+#js
+
+/node_modules
+/yarn-error.log
+/npm-debug.log*
+/pnpm-debug.log*
+
+/vendor/bundle
